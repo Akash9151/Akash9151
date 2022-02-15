@@ -61,6 +61,4 @@ if __name__ == '__main__':
 
 ------
 
-Credit for template: [abhigyantrips](https://github.com/abhigyantrips)
-
 Last Edited on: 16/02/2022
