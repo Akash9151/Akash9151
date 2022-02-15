@@ -57,7 +57,7 @@ if __name__ == '__main__':
 </p>
 <br>
 
-[![Akash Kashyap' Activity Graph](https://activity-graph.herokuapp.com/graph?username=Akash9151&custom_title=Akash%Kashyap's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://akashkashyap.in/)
+[![Akash Kashyap' Activity Graph](https://activity-graph.herokuapp.com/graph?username=Akash9151&custom_title=Akash%20Kashyap's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://akashkashyap.in/)
 
 ------
 
